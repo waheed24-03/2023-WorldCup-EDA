@@ -1,7 +1,6 @@
 # 🏏 ICC Cricket World Cup 2023 – EDA (India Focused)
 
 This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket World Cup 2023, with a special focus on **Team India’s performance**.  
-All visualizations are stored under the `2023 WC EDA/images/` folder, and this README serves as the **single dashboard**.
 
 ---
 
@@ -105,4 +104,5 @@ All visualizations are stored under the `2023 WC EDA/images/` folder, and this R
 - Extras control and run-rate acceleration remain critical insights for strategy.  
 
 ---
+
 
