@@ -103,6 +103,10 @@ This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket 
 - Extras control and run-rate acceleration remain critical insights for strategy.  
 
 ---
+## Acknowledgements
+- Kaggle
+
+---
 
 
 
@@ -113,6 +117,7 @@ This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket 
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
 --- 
+
 
 
 
