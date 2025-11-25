@@ -102,6 +102,8 @@ This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket 
 - Adaptability across toss decisions and venues gave a clear edge.  
 - **Boundary hitting + controlled wickets** = India’s winning formula.  
 - Extras control and run-rate acceleration remain critical insights for strategy.  
+---
+
 
 
 
