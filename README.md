@@ -2,6 +2,9 @@
 
 
 
+This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket World Cup 2023, with a special focus on **Team India’s performance**.  
+---
+## 📌 Project Snapshot
 ![Full Dashboard](images/00_all_visuals_collage.png)
 
 *A single snapshot of all 14 visualizations — presenting the complete analytical story of the 2023 World Cup.*
@@ -110,6 +113,7 @@
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
 --- 
+
 
 
 
