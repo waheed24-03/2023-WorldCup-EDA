@@ -107,6 +107,9 @@ This repository presents **Exploratory Data Analysis (EDA)** of the ICC Cricket 
 - Kaggle
 ---
 ## 👤 Author
+- Syed Abdul Waheed
+
+
 
 
 
